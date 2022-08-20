@@ -1,0 +1,12 @@
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.probando {
+    border-radius: 2px;
+    font-size: 10000px;
+
+    color: red;
+}
