@@ -4,6 +4,8 @@ import React from "react";
 import Logo from './components/Logo';
 import Navbar from './components/Navbar';
 import LineChart from './components/LineChart';
+import Grafico from './components/Grafico';
+import Grafico2 from './components/Grafico2';
 //import Cabezal from './img/Cabezal.jpg'
 
 function App() {
@@ -13,6 +15,8 @@ function App() {
     <Logo/>
     <Navbar/>
     <LineChart/>
+    <Grafico/>
+    <Grafico2/>
     </div>
   );
 }

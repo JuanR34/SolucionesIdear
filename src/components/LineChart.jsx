@@ -48,6 +48,7 @@ export default function LineChart() {
 
   const data = useMemo(function () {
     return {
+      
       datasets: [
         {
           label: "Mis datos",
