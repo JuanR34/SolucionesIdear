@@ -59,7 +59,7 @@ const Grafico2 = () => {
   var data = {
     labels: chart?.coins?.map(x => x.name),
     datasets: [{
-      label: `${chart?.coins?.length} Coins Available`,
+      label: `${chart?.coins?.length} holu`,
       data: chart?.coins?.map(x => x.price),
       backgroundColor: [
         'rgba(255, 99, 132, 0.2)',
